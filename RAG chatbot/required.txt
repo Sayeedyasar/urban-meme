@@ -1,0 +1,6 @@
+Langchain 
+Langchain_community 
+Langchain_core
+Streamlit 
+Os
+dotenv
